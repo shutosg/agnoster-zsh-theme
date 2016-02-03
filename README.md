@@ -2,6 +2,7 @@
 
 A ZSH theme changed from agnoster.
 
+![](joshunoster.png)
 # Changes since original
  - Recommended scheme color
  - Designed for every Okabe!!
