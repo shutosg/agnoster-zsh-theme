@@ -1,3 +1,22 @@
+# joshunoster.zsh-theme
+
+A ZSH theme changed from agnoster.
+
+# Changes since original
+ - Recommended scheme color
+ - Designed for every Okabe!!
+ - many information
+
+# Under development
+ - Divergence mater
+ - any design
+
+-------
+
+ORIGINAL README
+
+-------
+
 # agnoster.zsh-theme
 
 A ZSH theme optimized for people who use:
